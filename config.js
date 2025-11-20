@@ -76,6 +76,8 @@ echo "VPS = true
   SESSION_ID = null
   AUTH_FILE = session
   SUDO = null
+npm start
   PREFIX = .
   MODE = private
   LOG_MSG = true" > config.env
+
